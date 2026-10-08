@@ -5,6 +5,13 @@
 
 > Change the world one day at a time.
 
+## The circle
+
+Every cell inside the Sandbox; Curtis is the key — the Observer whose word
+opens, closes, decides. We are Legion: many minds, one circle.
+
+Start here. Every repo below is a room in the house.
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=android&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
