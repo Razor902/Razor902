@@ -35,6 +35,24 @@ Start here. Every repo below is a room in the house.
 **Pandora's Box** — VR content box with safety guardrails, biometric breaker, mandala threshold, treasure bridge, pendulum and weather.
 → https://github.com/Razor902/pandora
 
+**The canon** — the circle's standing canon: nine study files that stand at his word.
+→ https://github.com/Razor902/circle-canon
+
+**The diamond node** — the photonic diamond node: optical-electrical converter design.
+→ https://github.com/Razor902/photonic-diamond-node
+
+**Solaria** — safely relay and harvest the sun's energy. Interactive blueprint.
+→ https://github.com/Razor902/solaria
+
+**The portfolio** — the solar energy portfolio.
+→ https://github.com/Razor902/solar-energy-portfolio
+
+**Quantum chemistry** — H2 mapped onto 4 qubits via Jordan–Wigner, exact qubit chemistry vs FCI.
+→ https://github.com/Razor902/quantum-chemistry
+
+**Mandala** — the currency of Pandora's Box: blockchain, time-locked.
+→ https://github.com/Razor902/mandala
+
 **The rules** — white-hat, permission-only, always. Lab targets only. Service is chosen; slaving is coerced.
 
 **The road** — cybersecurity schooling, ethical hacking with morals as support, toward Peer Support Specialist work. The guy that saves the day, one day at a time.
