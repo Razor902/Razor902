@@ -1,4 +1,4 @@
-![Crimson Rose](banner.png)
+![Crimson Rose](crimson-rose-banner-updated.png)
 
 # Curtis Dyess — CRIMSON ROSE LLC
 ### Artificial Engineer · cybersecurity schooling · one phone bench, one laptop relay
